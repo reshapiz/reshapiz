@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**reshapiz/reshapiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `RESHAPIZ`
 
-Here are some ideas to get you started:
+### MATVEY SMIRNOV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Developer
+Information Systems & Programming
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cs,go,kotlin,java,dotnet,python,sql,js,html,css,sql,figma" />
+
+<br><br>
+
+<a href="https://reshapiz.ru/">
+<img src="https://img.shields.io/badge/RESHAPIZ.RU-111111?style=flat-square&logo=googlechrome&logoColor=ffffff" />
+</a>
+
+<br><br>
+
+<sub>BUILD · LEARN · IMPROVE</sub>
+
+</div>
