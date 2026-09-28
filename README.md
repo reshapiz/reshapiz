@@ -9,7 +9,16 @@ Information Systems & Programming
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=cs,go,kotlin,java,dotnet,python,mysql,js,html,css,php,flutter&perline=6" />
+| Tech | Level |
+|:--:|:--:|
+| <img src="https://skillicons.dev/icons?i=cs" width="32"> | ▰▰▰▱▱ |
+| <img src="https://skillicons.dev/icons?i=java" width="32"> | ▰▰▰▱▱ |
+| <img src="https://skillicons.dev/icons?i=python" width="32"> | ▰▰▰▱▱ |
+| <img src="https://skillicons.dev/icons?i=js" width="32"> | ▰▰▰▰▱ |
+| <img src="https://skillicons.dev/icons?i=html" width="32"> | ▰▰▰▰▱ |
+| <img src="https://skillicons.dev/icons?i=css" width="32">  | ▰▰▰▰▱ |
+| <img src="https://skillicons.dev/icons?i=dart" width="32"> | ▰▰▱▱▱ |
+| <img src="https://skillicons.dev/icons?i=flutter" width="32"> | ▰▰▱▱▱ |
 
 <br><br>
 
