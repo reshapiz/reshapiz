@@ -9,7 +9,7 @@ Information Systems & Programming
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=cs,go,kotlin,java,dotnet,python,sql,js,html,css,sql,php,flutter" />
+<img src="https://skillicons.dev/icons?i=cs,go,kotlin,java,dotnet,python,mysql,js,html,css,php,flutter&perline=6" />
 
 <br><br>
 
